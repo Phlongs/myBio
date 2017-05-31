@@ -318,30 +318,6 @@ body {
   webkit-tap-highlight-color: rgba(255, 255, 255, 0.2);
 }
 
-#login-dp{
-    min-width: 250px;
-    padding: 14px 14px 0;
-    overflow:hidden;
-    background-color:#ddd;
-}
-#login-dp .help-block{
-    font-size:12px
-}
-#login-dp .bottom a{
-    background-color:rgba(255,255,255,.8);
-    color: black;
-
-
-}
-#login-dp .social-buttons{
-    margin:12px 0
-}
-#login-dp .social-buttons a{
-    width: 100%;
-}
-#login-dp .form-group {
-    margin-bottom: 10px;
-}
 .btn-fb{
     color: #fff;
     background-color:#3b5998;
