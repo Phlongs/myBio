@@ -132,7 +132,7 @@ a:focus {
   padding: 100px 0;
   text-align: center;
   color: white;
-  opacity: .5;
+  opacity: .8;
   background: url(assets/media/background.jpg) no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
